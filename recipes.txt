@@ -6,6 +6,9 @@ welcome to work
 mango
 apple
 papaya
+sugar
+milk
+
 
 
 
